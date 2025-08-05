@@ -6,7 +6,7 @@ title: Bioinformatics Specialist
 name_pronunciation: Weiming Liang
 
 # Full name (for SEO)
-first_name: Weiming
+first_name: Wei ming
 last_name: Liang
 
 # Status emoji
